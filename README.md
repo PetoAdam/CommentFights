@@ -1,2 +1,0 @@
-# CommentFights
-serverside
